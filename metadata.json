@@ -1,0 +1,6 @@
+{
+  "name": "tSurvey.id oleh Telkomsel",
+  "description": "Landing page interaktif untuk layanan pengumpulan data survei dan riset pasar tSurvey.id berbasis Telkomsel Insights, lengkap dengan paket harga, artikel blog riset konsumen, serta simulasi kuesioner live.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
